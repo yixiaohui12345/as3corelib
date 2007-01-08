@@ -2,5 +2,9 @@
 This page contains articles, tutorial and other resources on how to work with the ActionScript 3 corelib library.
 
 = Articles / Tutorials =
+ * none yet
+
+= External Resources =
   * [http://weblogs.macromedia.com/mesh/archives/2006/03/one_of_the_litt.cfm Using JSON with ActionScript 3 and Flex] - Mike Chambers
+
 

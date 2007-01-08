@@ -23,3 +23,7 @@ Functionality includes:
   * Daniel Dura
   * Darron Schall
   * Tinic Uro
+
+
+
+This project was contributed to the open source community by [http://www.adobe.com Adobe] and was originally hosted on [http://labs.adobe.com/wiki/index.php/ActionScript_3:resources:apis:libraries Adobe Labs].

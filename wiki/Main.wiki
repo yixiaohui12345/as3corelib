@@ -11,7 +11,7 @@ The corelib project is an ActionScript 3 Library that contains a number of class
 Functionality includes:
   * MD5 Hash
   * SHA1 Hash
-  * JSON Library (serialization and deserialization)
+  * JSON Library (serialization and de-serialization)
   * JPEG and PNG Encoding
   * HTTP Utility and Helper Classes
   * Array, String, Date, Number and XML Utility APIs
@@ -23,4 +23,3 @@ Functionality includes:
   * Daniel Dura
   * Darron Schall
   * Tinic Uro
-

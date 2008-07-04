@@ -1,0 +1,13 @@
+#Contributors to as3corelib
+
+The following people (in no particular order) have contributed to the as3corelib project, either through code submissions, testing, documentation or other manners.
+
+If you have contributed, but don't see your name on the list, then send an email to mikechambers@gmail.com.
+
+
+= Contributors =
+
+  * [http://www.mikechambers.com/ Mike Chambers]
+  * [http://weblogs.macromedia.com/cantrell/ Christian Cantrell]
+  * [http://www.danieldura.com Daniel Dura]
+  * [http://www.darronschall.com/weblog/ Darron Schall]

@@ -1,4 +1,4 @@
-#Contributors to as3corelib
+#summary Contributors to as3corelib
 
 The following people (in no particular order) have contributed to the as3corelib project, either through code submissions, testing, documentation or other manners.
 

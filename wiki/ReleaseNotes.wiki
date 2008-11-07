@@ -8,6 +8,8 @@ This page contains known issues and notes for the library.
 
 Classes in the com.adobe.air package will only work within the Adobe AIR runtime.
 
+All other classes are compatible with Flash Player 9.
+
 = Releases =
 
 ==.92 (November 7, 2008)==

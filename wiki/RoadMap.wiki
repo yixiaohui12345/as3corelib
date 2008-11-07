@@ -1,0 +1,13 @@
+#summary Current plans for future library updates.
+#labels Featured
+
+= Introduction =
+
+This page lists future plans and milestones for the library.
+
+
+= .93 =
+
+==JSON updates==
+  * Add strict / non-strict mode
+  * Fix bugs

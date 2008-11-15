@@ -12,6 +12,9 @@ All other classes are compatible with Flash Player 9.
 
 = Releases =
 
+==.92.1 (November 15 2008)==
+  * SWC recompiled with Flex 3.0 SDK (was 3.2 prior).
+
 ==.92 (November 7, 2008)==
   * Various bug fixes.
   * Added com.adobe.air package.

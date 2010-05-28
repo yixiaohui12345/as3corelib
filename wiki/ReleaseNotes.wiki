@@ -12,6 +12,10 @@ All other classes are compatible with Flash Player 9.
 
 = Releases =
 
+==.93 (May 28, 2010)==
+  *SWC compiled with Flex 3.5
+  *[http://code.google.com/p/as3corelib/source/list?num=75&start=116 Changes 75 - 116]
+
 ==.92.1 (November 15 2008)==
   * SWC recompiled with Flex 3.0 SDK (was 3.2 prior).
 

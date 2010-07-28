@@ -1,4 +1,6 @@
 #labels Featured
+THIS PAGE IS NO LONGER MAINTAINED AND HAS BEEN MOVED TO: https://github.com/mikechambers/as3corelib/wikis/resources
+
 This page contains articles, tutorial and other resources on how to work with the ActionScript 3 corelib library.
 
 = Articles / Tutorials =

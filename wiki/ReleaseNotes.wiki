@@ -1,5 +1,9 @@
 #summary Known issues and notes
 #labels Featured
+
+THIS PAGE IS NO LONGER MAINTAINED AND HAS BEEN MOVED TO:
+https://github.com/mikechambers/as3corelib/wikis/release-notes
+
 = Introduction =
 
 This page contains known issues and notes for the library.

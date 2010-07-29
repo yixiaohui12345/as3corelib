@@ -1,6 +1,13 @@
 #labels Featured
 Wiki for ActionScript 3 corelib Project
 
+
+<font size="14"><b>THIS PROJECT HAS MOVED AND IS NO LONGER BEING MAINTAINED ON GOOGLE CODE</b></font>
+
+<font size="14"><b>THE NEW PROJECT HOME CAN BE FOUND AT:</b></font>
+
+https://github.com/mikechambers/as3corelib
+
 THIS PAGE IS NO LONGER MAINTAINED AND HAS BEEN MOVED TO: https://github.com/mikechambers/as3corelib/wikis
 
 = Introduction =

@@ -51,17 +51,17 @@ package com.adobe.protocols.dict
 		extends EventDispatcher
 	{
 		// Event type names.
-		//public static var CONNECTED:String = "connected";
-		//public static var DISCONNECTED:String = "disconnected";
+		public static var CONNECTED:String = "connected";
+		public static var DISCONNECTED:String = "disconnected";
 		public static var IO_ERROR:String = IOErrorEvent.IO_ERROR;
-		//public static var ERROR:String = "error";
-		//public static var SERVERS:String = "servers";
-		//public static var DATABASES:String = "databases";
-		//public static var MATCH_STRATEGIES:String = "matchStrategies";
-		//public static var DEFINITION:String = "definition";
-		//public static var DEFINITION_HEADER:String = "definitionHeader";
-		//public static var MATCH:String = "match";
-		//public static var NO_MATCH:String = "noMatch";
+		public static var ERROR:String = "error";
+		public static var SERVERS:String = "servers";
+		public static var DATABASES:String = "databases";
+		public static var MATCH_STRATEGIES:String = "matchStrategies";
+		public static var DEFINITION:String = "definition";
+		public static var DEFINITION_HEADER:String = "definitionHeader";
+		public static var MATCH:String = "match";
+		public static var NO_MATCH:String = "noMatch";
 
 		public static var FIRST_MATCH:uint = 0;
 		public static var ALL_DATABASES:uint = 1;
